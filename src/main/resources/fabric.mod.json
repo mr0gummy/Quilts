@@ -3,13 +3,11 @@
 	"id": "quilts",
 	"version": "${version}",
 	"name": "Quilts",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod adds a lot of new carpet variants called quilts, you get quilts from placing two different carpets in a crafting table",
 	"authors": [
 		"mr0gummy"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/quilts/icon.png",
@@ -29,6 +27,5 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
 	}
 }
