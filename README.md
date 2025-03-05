@@ -1,0 +1,245 @@
+# Quilts
+This mod adds a lot of new carpet variants called quilts, you get quilts from placing two different carpets in a crafting table
+
+## Quilt Combinations
+
+- White And Orange Quilt
+- White And Magenta Quilt
+- White And Light Blue Quilt
+- White And Yellow Quilt
+- White And Lime Quilt
+- White And Pink Quilt
+- White And Gray Quilt
+- White And Light Gray Quilt
+- White And Cyan Quilt
+- White And Purple Quilt
+- White And Blue Quilt
+- White And Brown Quilt
+- White And Green Quilt
+- White And Red Quilt
+- White And Black Quilt
+- Orange And White Quilt
+- Orange And Magenta Quilt
+- Orange And Light Blue Quilt
+- Orange And Yellow Quilt
+- Orange And Lime Quilt
+- Orange And Pink Quilt
+- Orange And Gray Quilt
+- Orange And Light Gray Quilt
+- Orange And Cyan Quilt
+- Orange And Purple Quilt
+- Orange And Blue Quilt
+- Orange And Brown Quilt
+- Orange And Green Quilt
+- Orange And Red Quilt
+- Orange And Black Quilt
+- Magenta And White Quilt
+- Magenta And Orange Quilt
+- Magenta And Light Blue Quilt
+- Magenta And Yellow Quilt
+- Magenta And Lime Quilt
+- Magenta And Pink Quilt
+- Magenta And Gray Quilt
+- Magenta And Light Gray Quilt
+- Magenta And Cyan Quilt
+- Magenta And Purple Quilt
+- Magenta And Blue Quilt
+- Magenta And Brown Quilt
+- Magenta And Green Quilt
+- Magenta And Red Quilt
+- Magenta And Black Quilt
+- Light Blue And White Quilt
+- Light Blue And Orange Quilt
+- Light Blue And Magenta Quilt
+- Light Blue And Yellow Quilt
+- Light Blue And Lime Quilt
+- Light Blue And Pink Quilt
+- Light Blue And Gray Quilt
+- Light Blue And Light Gray Quilt
+- Light Blue And Cyan Quilt
+- Light Blue And Purple Quilt
+- Light Blue And Blue Quilt
+- Light Blue And Brown Quilt
+- Light Blue And Green Quilt
+- Light Blue And Red Quilt
+- Light Blue And Black Quilt
+- Yellow And White Quilt
+- Yellow And Orange Quilt
+- Yellow And Magenta Quilt
+- Yellow And Light Blue Quilt
+- Yellow And Lime Quilt
+- Yellow And Pink Quilt
+- Yellow And Gray Quilt
+- Yellow And Light Gray Quilt
+- Yellow And Cyan Quilt
+- Yellow And Purple Quilt
+- Yellow And Blue Quilt
+- Yellow And Brown Quilt
+- Yellow And Green Quilt
+- Yellow And Red Quilt
+- Yellow And Black Quilt
+- Lime And White Quilt
+- Lime And Orange Quilt
+- Lime And Magenta Quilt
+- Lime And Light Blue Quilt
+- Lime And Yellow Quilt
+- Lime And Pink Quilt
+- Lime And Gray Quilt
+- Lime And Light Gray Quilt
+- Lime And Cyan Quilt
+- Lime And Purple Quilt
+- Lime And Blue Quilt
+- Lime And Brown Quilt
+- Lime And Green Quilt
+- Lime And Red Quilt
+- Lime And Black Quilt
+- Pink And White Quilt
+- Pink And Orange Quilt
+- Pink And Magenta Quilt
+- Pink And Light Blue Quilt
+- Pink And Yellow Quilt
+- Pink And Lime Quilt
+- Pink And Gray Quilt
+- Pink And Light Gray Quilt
+- Pink And Cyan Quilt
+- Pink And Purple Quilt
+- Pink And Blue Quilt
+- Pink And Brown Quilt
+- Pink And Green Quilt
+- Pink And Red Quilt
+- Pink And Black Quilt
+- Gray And White Quilt
+- Gray And Orange Quilt
+- Gray And Magenta Quilt
+- Gray And Light Blue Quilt
+- Gray And Yellow Quilt
+- Gray And Lime Quilt
+- Gray And Pink Quilt
+- Gray And Light Gray Quilt
+- Gray And Cyan Quilt
+- Gray And Purple Quilt
+- Gray And Blue Quilt
+- Gray And Brown Quilt
+- Gray And Green Quilt
+- Gray And Red Quilt
+- Gray And Black Quilt
+- Light Gray And White Quilt
+- Light Gray And Orange Quilt
+- Light Gray And Magenta Quilt
+- Light Gray And Light Blue Quilt
+- Light Gray And Yellow Quilt
+- Light Gray And Lime Quilt
+- Light Gray And Pink Quilt
+- Light Gray And Gray Quilt
+- Light Gray And Cyan Quilt
+- Light Gray And Purple Quilt
+- Light Gray And Blue Quilt
+- Light Gray And Brown Quilt
+- Light Gray And Green Quilt
+- Light Gray And Red Quilt
+- Light Gray And Black Quilt
+- Cyan And White Quilt
+- Cyan And Orange Quilt
+- Cyan And Magenta Quilt
+- Cyan And Light Blue Quilt
+- Cyan And Yellow Quilt
+- Cyan And Lime Quilt
+- Cyan And Pink Quilt
+- Cyan And Gray Quilt
+- Cyan And Light Gray Quilt
+- Cyan And Purple Quilt
+- Cyan And Blue Quilt
+- Cyan And Brown Quilt
+- Cyan And Green Quilt
+- Cyan And Red Quilt
+- Cyan And Black Quilt
+- Purple And White Quilt
+- Purple And Orange Quilt
+- Purple And Magenta Quilt
+- Purple And Light Blue Quilt
+- Purple And Yellow Quilt
+- Purple And Lime Quilt
+- Purple And Pink Quilt
+- Purple And Gray Quilt
+- Purple And Light Gray Quilt
+- Purple And Cyan Quilt
+- Purple And Blue Quilt
+- Purple And Brown Quilt
+- Purple And Green Quilt
+- Purple And Red Quilt
+- Purple And Black Quilt
+- Blue And White Quilt
+- Blue And Orange Quilt
+- Blue And Magenta Quilt
+- Blue And Light Blue Quilt
+- Blue And Yellow Quilt
+- Blue And Lime Quilt
+- Blue And Pink Quilt
+- Blue And Gray Quilt
+- Blue And Light Gray Quilt
+- Blue And Cyan Quilt
+- Blue And Purple Quilt
+- Blue And Brown Quilt
+- Blue And Green Quilt
+- Blue And Red Quilt
+- Blue And Black Quilt
+- Brown And White Quilt
+- Brown And Orange Quilt
+- Brown And Magenta Quilt
+- Brown And Light Blue Quilt
+- Brown And Yellow Quilt
+- Brown And Lime Quilt
+- Brown And Pink Quilt
+- Brown And Gray Quilt
+- Brown And Light Gray Quilt
+- Brown And Cyan Quilt
+- Brown And Purple Quilt
+- Brown And Blue Quilt
+- Brown And Green Quilt
+- Brown And Red Quilt
+- Brown And Black Quilt
+- Green And White Quilt
+- Green And Orange Quilt
+- Green And Magenta Quilt
+- Green And Light Blue Quilt
+- Green And Yellow Quilt
+- Green And Lime Quilt
+- Green And Pink Quilt
+- Green And Gray Quilt
+- Green And Light Gray Quilt
+- Green And Cyan Quilt
+- Green And Purple Quilt
+- Green And Blue Quilt
+- Green And Brown Quilt
+- Green And Red Quilt
+- Green And Black Quilt
+- Red And White Quilt
+- Red And Orange Quilt
+- Red And Magenta Quilt
+- Red And Light Blue Quilt
+- Red And Yellow Quilt
+- Red And Lime Quilt
+- Red And Pink Quilt
+- Red And Gray Quilt
+- Red And Light Gray Quilt
+- Red And Cyan Quilt
+- Red And Purple Quilt
+- Red And Blue Quilt
+- Red And Brown Quilt
+- Red And Green Quilt
+- Red And Black Quilt
+- Black And White Quilt
+- Black And Orange Quilt
+- Black And Magenta Quilt
+- Black And Light Blue Quilt
+- Black And Yellow Quilt
+- Black And Lime Quilt
+- Black And Pink Quilt
+- Black And Gray Quilt
+- Black And Light Gray Quilt
+- Black And Cyan Quilt
+- Black And Purple Quilt
+- Black And Blue Quilt
+- Black And Brown Quilt
+- Black And Green Quilt
+- Black And Red Quilt
