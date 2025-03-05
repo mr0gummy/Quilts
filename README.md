@@ -1,5 +1,6 @@
 # Quilts
 This mod adds a lot of new carpet variants called quilts, you get quilts from placing two different carpets in a crafting table
+![Quilt Crafting Recipe](https://cdn.modrinth.com/data/ftC4D06E/images/57a485960347adeb035259a8f78d13ca8fa06253.png)
 
 ## Quilt Combinations
 
