@@ -14,6 +14,7 @@ public class Quilts implements ModInitializer {
 	public void onInitialize() {
 
 		ModBlocks.init();
+		ModItemGroup.init();
 
 		LOGGER.info("Hi this is gummy, so why why did you want to try this mod. why-");
 	}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "quilts",
+  "key": {
+    "#": "minecraft:red_carpet",
+    "E": "minecraft:cyan_carpet"
+  },
+  "pattern": [
+    "#E"
+  ],
+  "result": {
+    "count": 2,
+    "id": "quilts:red_and_cyan_quilt"
+  }
+}

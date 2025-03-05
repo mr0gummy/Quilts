@@ -1,9 +1,6 @@
 package dev.mr0gummy.quilts;
 
-import net.minecraft.block.AbstractBlock;
-import net.minecraft.block.Block;
-import net.minecraft.block.Blocks;
-import net.minecraft.block.CarpetBlock;
+import net.minecraft.block.*;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
@@ -13,11 +10,16 @@ import net.minecraft.registry.RegistryKeys;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.Pair;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
 import java.util.function.Function;
 
 public class ModBlocks {
 
-	public static final Block QUILT = registerBlockWithItem("quilt", CarpetBlock::new, AbstractBlock.Settings.copy(Blocks.WHITE_CARPET)).getLeft();
+
+
+	public static final Block QUILT = registerBlockWithItem("quilt", Quiltblock::new, AbstractBlock.Settings.copy(Blocks.WHITE_CARPET)).getLeft();
 
 	public static final Block WHITE_AND_ORANGE_QUILT = registerBlockWithItem("white_and_orange_quilt", CarpetBlock::new, AbstractBlock.Settings.copy(Blocks.WHITE_CARPET)).getLeft();
 	public static final Block WHITE_AND_MAGENTA_QUILT = registerBlockWithItem("white_and_magenta_quilt", CarpetBlock::new, AbstractBlock.Settings.copy(Blocks.WHITE_CARPET)).getLeft();

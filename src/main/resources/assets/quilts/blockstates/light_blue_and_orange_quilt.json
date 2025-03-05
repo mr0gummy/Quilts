@@ -1,0 +1,14 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "quilts:block/light_blue"
+      }
+    },
+    {
+      "apply": {
+        "model": "quilts:block/orange2"
+      }
+    }
+  ]
+}

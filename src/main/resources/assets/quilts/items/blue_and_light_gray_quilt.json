@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "quilts:block/blue"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "quilts:block/light_gray2"
+      }
+    ]
+  }
+}

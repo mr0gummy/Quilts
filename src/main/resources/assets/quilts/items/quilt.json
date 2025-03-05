@@ -4,11 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "quilts:block/yellow"
-      },
-      {
-        "type": "minecraft:model",
-        "model": "quilts:block/black2"
+        "model": "quilts:block/quilt"
       }
     ]
   }
