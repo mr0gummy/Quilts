@@ -1,0 +1,6 @@
+{
+	"parent": "quilts:block/template",
+	"textures": {
+		"quilt": "quilts:block/orange"
+	}
+}
