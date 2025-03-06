@@ -14,233 +14,237 @@ This mod adds a lot of new carpet variants called quilts, you get quilts from pl
 - White And Light Gray Quilt
 - White And Cyan Quilt
 - White And Purple Quilt
-- White And Blue Quilt
-- White And Brown Quilt
-- White And Green Quilt
-- White And Red Quilt
-- White And Black Quilt
-- Orange And White Quilt
-- Orange And Magenta Quilt
-- Orange And Light Blue Quilt
-- Orange And Yellow Quilt
-- Orange And Lime Quilt
-- Orange And Pink Quilt
-- Orange And Gray Quilt
-- Orange And Light Gray Quilt
-- Orange And Cyan Quilt
-- Orange And Purple Quilt
-- Orange And Blue Quilt
-- Orange And Brown Quilt
-- Orange And Green Quilt
-- Orange And Red Quilt
-- Orange And Black Quilt
-- Magenta And White Quilt
-- Magenta And Orange Quilt
-- Magenta And Light Blue Quilt
-- Magenta And Yellow Quilt
-- Magenta And Lime Quilt
-- Magenta And Pink Quilt
-- Magenta And Gray Quilt
-- Magenta And Light Gray Quilt
-- Magenta And Cyan Quilt
-- Magenta And Purple Quilt
-- Magenta And Blue Quilt
-- Magenta And Brown Quilt
-- Magenta And Green Quilt
-- Magenta And Red Quilt
-- Magenta And Black Quilt
-- Light Blue And White Quilt
-- Light Blue And Orange Quilt
-- Light Blue And Magenta Quilt
-- Light Blue And Yellow Quilt
-- Light Blue And Lime Quilt
-- Light Blue And Pink Quilt
-- Light Blue And Gray Quilt
-- Light Blue And Light Gray Quilt
-- Light Blue And Cyan Quilt
-- Light Blue And Purple Quilt
-- Light Blue And Blue Quilt
-- Light Blue And Brown Quilt
-- Light Blue And Green Quilt
-- Light Blue And Red Quilt
-- Light Blue And Black Quilt
-- Yellow And White Quilt
-- Yellow And Orange Quilt
-- Yellow And Magenta Quilt
-- Yellow And Light Blue Quilt
-- Yellow And Lime Quilt
-- Yellow And Pink Quilt
-- Yellow And Gray Quilt
-- Yellow And Light Gray Quilt
-- Yellow And Cyan Quilt
-- Yellow And Purple Quilt
-- Yellow And Blue Quilt
-- Yellow And Brown Quilt
-- Yellow And Green Quilt
-- Yellow And Red Quilt
-- Yellow And Black Quilt
-- Lime And White Quilt
-- Lime And Orange Quilt
-- Lime And Magenta Quilt
-- Lime And Light Blue Quilt
-- Lime And Yellow Quilt
-- Lime And Pink Quilt
-- Lime And Gray Quilt
-- Lime And Light Gray Quilt
-- Lime And Cyan Quilt
-- Lime And Purple Quilt
-- Lime And Blue Quilt
-- Lime And Brown Quilt
-- Lime And Green Quilt
-- Lime And Red Quilt
-- Lime And Black Quilt
-- Pink And White Quilt
-- Pink And Orange Quilt
-- Pink And Magenta Quilt
-- Pink And Light Blue Quilt
-- Pink And Yellow Quilt
-- Pink And Lime Quilt
-- Pink And Gray Quilt
-- Pink And Light Gray Quilt
-- Pink And Cyan Quilt
-- Pink And Purple Quilt
-- Pink And Blue Quilt
-- Pink And Brown Quilt
-- Pink And Green Quilt
-- Pink And Red Quilt
-- Pink And Black Quilt
-- Gray And White Quilt
-- Gray And Orange Quilt
-- Gray And Magenta Quilt
-- Gray And Light Blue Quilt
-- Gray And Yellow Quilt
-- Gray And Lime Quilt
-- Gray And Pink Quilt
-- Gray And Light Gray Quilt
-- Gray And Cyan Quilt
-- Gray And Purple Quilt
-- Gray And Blue Quilt
-- Gray And Brown Quilt
-- Gray And Green Quilt
-- Gray And Red Quilt
-- Gray And Black Quilt
-- Light Gray And White Quilt
-- Light Gray And Orange Quilt
-- Light Gray And Magenta Quilt
-- Light Gray And Light Blue Quilt
-- Light Gray And Yellow Quilt
-- Light Gray And Lime Quilt
-- Light Gray And Pink Quilt
-- Light Gray And Gray Quilt
-- Light Gray And Cyan Quilt
-- Light Gray And Purple Quilt
-- Light Gray And Blue Quilt
-- Light Gray And Brown Quilt
-- Light Gray And Green Quilt
-- Light Gray And Red Quilt
-- Light Gray And Black Quilt
-- Cyan And White Quilt
-- Cyan And Orange Quilt
-- Cyan And Magenta Quilt
-- Cyan And Light Blue Quilt
-- Cyan And Yellow Quilt
-- Cyan And Lime Quilt
-- Cyan And Pink Quilt
-- Cyan And Gray Quilt
-- Cyan And Light Gray Quilt
-- Cyan And Purple Quilt
-- Cyan And Blue Quilt
-- Cyan And Brown Quilt
-- Cyan And Green Quilt
-- Cyan And Red Quilt
-- Cyan And Black Quilt
-- Purple And White Quilt
-- Purple And Orange Quilt
-- Purple And Magenta Quilt
-- Purple And Light Blue Quilt
-- Purple And Yellow Quilt
-- Purple And Lime Quilt
-- Purple And Pink Quilt
-- Purple And Gray Quilt
-- Purple And Light Gray Quilt
-- Purple And Cyan Quilt
-- Purple And Blue Quilt
-- Purple And Brown Quilt
-- Purple And Green Quilt
-- Purple And Red Quilt
-- Purple And Black Quilt
-- Blue And White Quilt
-- Blue And Orange Quilt
-- Blue And Magenta Quilt
-- Blue And Light Blue Quilt
-- Blue And Yellow Quilt
-- Blue And Lime Quilt
-- Blue And Pink Quilt
-- Blue And Gray Quilt
-- Blue And Light Gray Quilt
-- Blue And Cyan Quilt
-- Blue And Purple Quilt
-- Blue And Brown Quilt
-- Blue And Green Quilt
-- Blue And Red Quilt
-- Blue And Black Quilt
-- Brown And White Quilt
-- Brown And Orange Quilt
-- Brown And Magenta Quilt
-- Brown And Light Blue Quilt
-- Brown And Yellow Quilt
-- Brown And Lime Quilt
-- Brown And Pink Quilt
-- Brown And Gray Quilt
-- Brown And Light Gray Quilt
-- Brown And Cyan Quilt
-- Brown And Purple Quilt
-- Brown And Blue Quilt
-- Brown And Green Quilt
-- Brown And Red Quilt
-- Brown And Black Quilt
-- Green And White Quilt
-- Green And Orange Quilt
-- Green And Magenta Quilt
-- Green And Light Blue Quilt
-- Green And Yellow Quilt
-- Green And Lime Quilt
-- Green And Pink Quilt
-- Green And Gray Quilt
-- Green And Light Gray Quilt
-- Green And Cyan Quilt
-- Green And Purple Quilt
-- Green And Blue Quilt
-- Green And Brown Quilt
-- Green And Red Quilt
-- Green And Black Quilt
-- Red And White Quilt
-- Red And Orange Quilt
-- Red And Magenta Quilt
-- Red And Light Blue Quilt
-- Red And Yellow Quilt
-- Red And Lime Quilt
-- Red And Pink Quilt
-- Red And Gray Quilt
-- Red And Light Gray Quilt
-- Red And Cyan Quilt
-- Red And Purple Quilt
-- Red And Blue Quilt
-- Red And Brown Quilt
-- Red And Green Quilt
-- Red And Black Quilt
-- Black And White Quilt
-- Black And Orange Quilt
-- Black And Magenta Quilt
-- Black And Light Blue Quilt
-- Black And Yellow Quilt
-- Black And Lime Quilt
-- Black And Pink Quilt
-- Black And Gray Quilt
-- Black And Light Gray Quilt
-- Black And Cyan Quilt
-- Black And Purple Quilt
-- Black And Blue Quilt
-- Black And Brown Quilt
-- Black And Green Quilt
-- Black And Red Quilt
+
+<details>
+<summary>+230</summary>
+  <li>White And Blue Quilt</li>
+  <li>White And Brown Quilt</li>
+  <li>White And Green Quilt</li>
+  <li>White And Red Quilt</li>
+  <li>White And Black Quilt</li>
+  <li>Orange And White Quilt</li>
+  <li>Orange And Magenta Quilt</li>
+  <li>Orange And Light Blue Quilt</li>
+  <li>Orange And Yellow Quilt</li>
+  <li>Orange And Lime Quilt</li>
+  <li>Orange And Pink Quilt</li>
+  <li>Orange And Gray Quilt</li>
+  <li>Orange And Light Gray Quilt</li>
+  <li>Orange And Cyan Quilt</li>
+  <li>Orange And Purple Quilt</li>
+  <li>Orange And Blue Quilt</li>
+  <li>Orange And Brown Quilt</li>
+  <li>Orange And Green Quilt</li>
+  <li>Orange And Red Quilt</li>
+  <li>Orange And Black Quilt</li>
+  <li>Magenta And White Quilt</li>
+  <li>Magenta And Orange Quilt</li>
+  <li>Magenta And Light Blue Quilt</li>
+  <li>Magenta And Yellow Quilt</li>
+  <li>Magenta And Lime Quilt</li>
+  <li>Magenta And Pink Quilt</li>
+  <li>Magenta And Gray Quilt</li>
+  <li>Magenta And Light Gray Quilt</li>
+  <li>Magenta And Cyan Quilt</li>
+  <li>Magenta And Purple Quilt</li>
+  <li>Magenta And Blue Quilt</li>
+  <li>Magenta And Brown Quilt</li>
+  <li>Magenta And Green Quilt</li>
+  <li>Magenta And Red Quilt</li>
+  <li>Magenta And Black Quilt</li>
+  <li>Light Blue And White Quilt</li>
+  <li>Light Blue And Orange Quilt</li>
+  <li>Light Blue And Magenta Quilt</li>
+  <li>Light Blue And Yellow Quilt</li>
+  <li>Light Blue And Lime Quilt</li>
+  <li>Light Blue And Pink Quilt</li>
+  <li>Light Blue And Gray Quilt</li>
+  <li>Light Blue And Light Gray Quilt</li>
+  <li>Light Blue And Cyan Quilt</li>
+  <li>Light Blue And Purple Quilt</li>
+  <li>Light Blue And Blue Quilt</li>
+  <li>Light Blue And Brown Quilt</li>
+  <li>Light Blue And Green Quilt</li>
+  <li>Light Blue And Red Quilt</li>
+  <li>Light Blue And Black Quilt</li>
+  <li>Yellow And White Quilt</li>
+  <li>Yellow And Orange Quilt</li>
+  <li>Yellow And Magenta Quilt</li>
+  <li>Yellow And Light Blue Quilt</li>
+  <li>Yellow And Lime Quilt</li>
+  <li>Yellow And Pink Quilt</li>
+  <li>Yellow And Gray Quilt</li>
+  <li>Yellow And Light Gray Quilt</li>
+  <li>Yellow And Cyan Quilt</li>
+  <li>Yellow And Purple Quilt</li>
+  <li>Yellow And Blue Quilt</li>
+  <li>Yellow And Brown Quilt</li>
+  <li>Yellow And Green Quilt</li>
+  <li>Yellow And Red Quilt</li>
+  <li>Yellow And Black Quilt</li>
+  <li>Lime And White Quilt</li>
+  <li>Lime And Orange Quilt</li>
+  <li>Lime And Magenta Quilt</li>
+  <li>Lime And Light Blue Quilt</li>
+  <li>Lime And Yellow Quilt</li>
+  <li>Lime And Pink Quilt</li>
+  <li>Lime And Gray Quilt</li>
+  <li>Lime And Light Gray Quilt</li>
+  <li>Lime And Cyan Quilt</li>
+  <li>Lime And Purple Quilt</li>
+  <li>Lime And Blue Quilt</li>
+  <li>Lime And Brown Quilt</li>
+  <li>Lime And Green Quilt</li>
+  <li>Lime And Red Quilt</li>
+  <li>Lime And Black Quilt</li>
+  <li>Pink And White Quilt</li>
+  <li>Pink And Orange Quilt</li>
+  <li>Pink And Magenta Quilt</li>
+  <li>Pink And Light Blue Quilt</li>
+  <li>Pink And Yellow Quilt</li>
+  <li>Pink And Lime Quilt</li>
+  <li>Pink And Gray Quilt</li>
+  <li>Pink And Light Gray Quilt</li>
+  <li>Pink And Cyan Quilt</li>
+  <li>Pink And Purple Quilt</li>
+  <li>Pink And Blue Quilt</li>
+  <li>Pink And Brown Quilt</li>
+  <li>Pink And Green Quilt</li>
+  <li>Pink And Red Quilt</li>
+  <li>Pink And Black Quilt</li>
+  <li>Gray And White Quilt</li>
+  <li>Gray And Orange Quilt</li>
+  <li>Gray And Magenta Quilt</li>
+  <li>Gray And Light Blue Quilt</li>
+  <li>Gray And Yellow Quilt</li>
+  <li>Gray And Lime Quilt</li>
+  <li>Gray And Pink Quilt</li>
+  <li>Gray And Light Gray Quilt</li>
+  <li>Gray And Cyan Quilt</li>
+  <li>Gray And Purple Quilt</li>
+  <li>Gray And Blue Quilt</li>
+  <li>Gray And Brown Quilt</li>
+  <li>Gray And Green Quilt</li>
+  <li>Gray And Red Quilt</li>
+  <li>Gray And Black Quilt</li>
+  <li>Light Gray And White Quilt</li>
+  <li>Light Gray And Orange Quilt</li>
+  <li>Light Gray And Magenta Quilt</li>
+  <li>Light Gray And Light Blue Quilt</li>
+  <li>Light Gray And Yellow Quilt</li>
+  <li>Light Gray And Lime Quilt</li>
+  <li>Light Gray And Pink Quilt</li>
+  <li>Light Gray And Gray Quilt</li>
+  <li>Light Gray And Cyan Quilt</li>
+  <li>Light Gray And Purple Quilt</li>
+  <li>Light Gray And Blue Quilt</li>
+  <li>Light Gray And Brown Quilt</li>
+  <li>Light Gray And Green Quilt</li>
+  <li>Light Gray And Red Quilt</li>
+  <li>Light Gray And Black Quilt</li>
+  <li>Cyan And White Quilt</li>
+  <li>Cyan And Orange Quilt</li>
+  <li>Cyan And Magenta Quilt</li>
+  <li>Cyan And Light Blue Quilt</li>
+  <li>Cyan And Yellow Quilt</li>
+  <li>Cyan And Lime Quilt</li>
+  <li>Cyan And Pink Quilt</li>
+  <li>Cyan And Gray Quilt</li>
+  <li>Cyan And Light Gray Quilt</li>
+  <li>Cyan And Purple Quilt</li>
+  <li>Cyan And Blue Quilt</li>
+  <li>Cyan And Brown Quilt</li>
+  <li>Cyan And Green Quilt</li>
+  <li>Cyan And Red Quilt</li>
+  <li>Cyan And Black Quilt</li>
+  <li>Purple And White Quilt</li>
+  <li>Purple And Orange Quilt</li>
+  <li>Purple And Magenta Quilt</li>
+  <li>Purple And Light Blue Quilt</li>
+  <li>Purple And Yellow Quilt</li>
+  <li>Purple And Lime Quilt</li>
+  <li>Purple And Pink Quilt</li>
+  <li>Purple And Gray Quilt</li>
+  <li>Purple And Light Gray Quilt</li>
+  <li>Purple And Cyan Quilt</li>
+  <li>Purple And Blue Quilt</li>
+  <li>Purple And Brown Quilt</li>
+  <li>Purple And Green Quilt</li>
+  <li>Purple And Red Quilt</li>
+  <li>Purple And Black Quilt</li>
+  <li>Blue And White Quilt</li>
+  <li>Blue And Orange Quilt</li>
+  <li>Blue And Magenta Quilt</li>
+  <li>Blue And Light Blue Quilt</li>
+  <li>Blue And Yellow Quilt</li>
+  <li>Blue And Lime Quilt</li>
+  <li>Blue And Pink Quilt</li>
+  <li>Blue And Gray Quilt</li>
+  <li>Blue And Light Gray Quilt</li>
+  <li>Blue And Cyan Quilt</li>
+  <li>Blue And Purple Quilt</li>
+  <li>Blue And Brown Quilt</li>
+  <li>Blue And Green Quilt</li>
+  <li>Blue And Red Quilt</li>
+  <li>Blue And Black Quilt</li>
+  <li>Brown And White Quilt</li>
+  <li>Brown And Orange Quilt</li>
+  <li>Brown And Magenta Quilt</li>
+  <li>Brown And Light Blue Quilt</li>
+  <li>Brown And Yellow Quilt</li>
+  <li>Brown And Lime Quilt</li>
+  <li>Brown And Pink Quilt</li>
+  <li>Brown And Gray Quilt</li>
+  <li>Brown And Light Gray Quilt</li>
+  <li>Brown And Cyan Quilt</li>
+  <li>Brown And Purple Quilt</li>
+  <li>Brown And Blue Quilt</li>
+  <li>Brown And Green Quilt</li>
+  <li>Brown And Red Quilt</li>
+  <li>Brown And Black Quilt</li>
+  <li>Green And White Quilt</li>
+  <li>Green And Orange Quilt</li>
+  <li>Green And Magenta Quilt</li>
+  <li>Green And Light Blue Quilt</li>
+  <li>Green And Yellow Quilt</li>
+  <li>Green And Lime Quilt</li>
+  <li>Green And Pink Quilt</li>
+  <li>Green And Gray Quilt</li>
+  <li>Green And Light Gray Quilt</li>
+  <li>Green And Cyan Quilt</li>
+  <li>Green And Purple Quilt</li>
+  <li>Green And Blue Quilt</li>
+  <li>Green And Brown Quilt</li>
+  <li>Green And Red Quilt</li>
+  <li>Green And Black Quilt</li>
+  <li>Red And White Quilt</li>
+  <li>Red And Orange Quilt</li>
+  <li>Red And Magenta Quilt</li>
+  <li>Red And Light Blue Quilt</li>
+  <li>Red And Yellow Quilt</li>
+  <li>Red And Lime Quilt</li>
+  <li>Red And Pink Quilt</li>
+  <li>Red And Gray Quilt</li>
+  <li>Red And Light Gray Quilt</li>
+  <li>Red And Cyan Quilt</li>
+  <li>Red And Purple Quilt</li>
+  <li>Red And Blue Quilt</li>
+  <li>Red And Brown Quilt</li>
+  <li>Red And Green Quilt</li>
+  <li>Red And Black Quilt</li>
+  <li>Black And White Quilt</li>
+  <li>Black And Orange Quilt</li>
+  <li>Black And Magenta Quilt</li>
+  <li>Black And Light Blue Quilt</li>
+  <li>Black And Yellow Quilt</li>
+  <li>Black And Lime Quilt</li>
+  <li>Black And Pink Quilt</li>
+  <li>Black And Gray Quilt</li>
+  <li>Black And Light Gray Quilt</li>
+  <li>Black And Cyan Quilt</li>
+  <li>Black And Purple Quilt</li>
+  <li>Black And Blue Quilt</li>
+  <li>Black And Brown Quilt</li>
+  <li>Black And Green Quilt</li>
+  <li>Black And Red Quilt</li>
+</details>
